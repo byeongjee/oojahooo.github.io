@@ -9,3 +9,5 @@ main:
   #   url: /tags/
   - title: "Publications"
     url: /publications/
+  - title: "CV"
+    url: /assets/pdf/CV_Jaeho_Kim.pdf
