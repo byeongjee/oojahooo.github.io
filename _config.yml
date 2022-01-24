@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     my new homepage
 github_username: oojahooo
 minimal_mistakes_skin: contrast
+minimal_mistakes_skin_dark: neon
 search: true
 
 # Build settings
