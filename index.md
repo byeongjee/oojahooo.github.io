@@ -1,12 +1,13 @@
 ---
 permalink: /
 author_profile: true
+classes: wide
 title: "Jaeho Kim"
 ---
 
 ## About
 
-I am a undergraduated student at Department of Computer Science and Engineering, Korea Univ.
+I am a undergraduated student at Department of Computer Science and Engineering, Korea University.
 I am currently interning in [Programming Systems Lab](https://prosys.kaist.ac.kr) in KAIST advised by [Kihong Heo](https://kihongheo.kaist.ac.kr).
 
 ## Research Interests
@@ -21,5 +22,5 @@ In particular,
 ## Education
 
 - Master Student (Soon)
-- B.S. [Department of Computer Science and Engineering](https://cs.korea.ac.kr/cs/index.do), Korea University, Mar. 2018 - Aug. 2022
-- Korea Science Academy of KAIST, Mar. 2015 - Feb. 2018
+- B.S. [Dept. of Computer Science and Engineering](https://cs.korea.edu/en_cs/index.do), [Korea University](http://www.korea.ac.kr/mbshome/mbs/university/index.do), Mar. 2018 - Aug. 2022
+- [Korea Science Academy of KAIST](https://www.ksa.hs.kr/Eng), Mar. 2015 - Feb. 2018
