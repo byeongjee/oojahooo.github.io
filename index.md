@@ -12,7 +12,7 @@ I am currently interning in [Programming Systems Lab](https://prosys.kaist.ac.kr
 
 ## Research Interests
 
-My research interests are related to improving of programming system using program analysis, synthesis, verification methods based on programming language theory.
+My research interests are related to improving programming system using program analysis, synthesis, verification methods based on programming language theory.
 In particular,
 - **Program Analysis** for automatically detecting software bugs and vulnerabilies
 - **Type Safety** of object-oriented imperative programming languages
