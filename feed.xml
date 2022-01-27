@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-25T16:42:14+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaeho Kim</title><subtitle>my new homepage</subtitle><author><name>Jaeho Kim</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-27T22:59:23+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaeho Kim</title><subtitle>my new homepage</subtitle><author><name>Jaeho Kim</name></author><entry><title type="html">Preface: 서론</title><link href="http://localhost:4000/types%20and%20programming%20languages/Ch1-Preface/" rel="alternate" type="text/html" title="Preface: 서론" /><published>2022-01-27T00:00:00+09:00</published><updated>2022-01-27T00:00:00+09:00</updated><id>http://localhost:4000/types%20and%20programming%20languages/Ch1-Preface</id><content type="html" xml:base="http://localhost:4000/types%20and%20programming%20languages/Ch1-Preface/">&lt;h2 id=&quot;첫-시작&quot;&gt;첫 시작&lt;/h2&gt;
+
+&lt;p&gt;본격적으로 컨퍼런스를 목표로 하는 연구를 진행하게 되며, 직접적으로 사용되는 이론과 기술을 찾아보고 적용할 일이 많아졌다.
+매번 새롭게 닥치는 문제들을 해결해 나가는 묘미란 대학원생, 연구자들의 가장 흔하고 즐거운 일이라 생각한다.
+그러나, 당장의 일을 해결하고 성과를 내기에 급급하다 보면 내가 정말 공부하고 싶었던 것들을 소홀히 하게 된다.&lt;/p&gt;
+
+&lt;p&gt;프로그래밍 언어론을 기반으로 하는 여러가지 방법론을 응용해 더 나은 개발환경, 더 안전한 프로그램을 만드는 데 기여하고 싶다.
+현재로써 가질 수 있는 조금이나마 구체적인 목표일 것이다.
+이를 위해선 지금 당장의 연구 또는 과제와 조금 동떨어지더라도 이론 공부를 더 해야 할 것이라 판단했다.&lt;/p&gt;
+
+&lt;p&gt;그런 의미에서 시작해보려 한다.
+갑자기 무언가에 홀린 듯이 심혈을 기울여 만들게 된 개인 홈페이지의 첫 포스트는 TaPL의 서론으로 하고자 한다.&lt;/p&gt;
+
+&lt;h2 id=&quot;types-and-programming-languages&quot;&gt;Types and Programming Languages&lt;/h2&gt;
+
+&lt;p&gt;Types and Programming Languages, 줄여서 TaPL, 한국어로 타플이라 발음하는 책은 프로그래밍 언어론에 관심이 있고 공부하고자 하는 사람이라면 한 번쯤 들어봤을 책이다.
+역시나 프로그래밍 언어론을 바탕으로 소프트웨어 분석 및 검증 연구를 하시는 고려대학교 컴퓨터학과 오학주 교수님의 학부 프로그래밍 언어 수업에서도, 공식적으로 채택하고 있는 교재는 아니지만 수업에서 더 깊은 내용을 질문하면 이 책을 추천해 주시곤 했다.
+책의 제목이 사실 직관적이고 간결하게 책의 내용을 이야기하고 있는데, 프로그래밍 언어란 무엇이며 어떻게 이루어져 있고, 프로그래밍 언어의 문법이라는 요소와 의미라는 요소를 정의하기 위해 어떤 수학적 지식과 이론을 필요로 하며 어떻게 정의되는지 정리되어 있으며, 특히 타입 및 타입 시스템을 주제로 타입이 없는 구조(untyped system)에서의 문법, 의미 그리고 평가(연산) 방식에 대한 설명부터 타입 구조와 타입 시스템 및 추론 규칙, 다형성 등 프로그래밍 언어와 그 타입 시스템의 이론적 바탕 및 설계를 점진적으로 강화해 나가는 방식의 책이다.
+정확히 그 방향성이나 내용 측면에서 어떤 공통점과 차이점이 있는지는 아직 모르지만, Theories of Programming Language라는 책과 함께 프로그래밍 언어론을 공부할 때 가장 기본이 되는 책이라고 알고 있다.&lt;/p&gt;
+
+&lt;p&gt;이제부터 - 이 글을 작성하고 있는 시점 기준으로 한 달 안에 논문을 완성해야 하기 때문에 장담은 못하겠지만 - 일주일에 한 번 정도는 TaPL에 대한 내용을 나만의 언어, 나만의 설명으로 정리해 보고자 한다.
+일단 가볍게 시작해보고 수많은 퇴고를 거쳐 점차 나은 글을 쓰고자 하기에, 누군가 나의 정리를 읽는다고 해서 TaPL의 내용과 진정한 아름다움을 얻어가기는 힘들지 모른다.
+그래도 만약 나의 글을 읽는 사람이 생긴다면, 정확히는 생길 것이라 믿고 꾸준히 신경써가며 글을 써보겠다.&lt;/p&gt;
+
+&lt;h2 id=&quot;시작의-끝&quot;&gt;시작의 끝&lt;/h2&gt;
+
+&lt;p&gt;앞으로 글의 스타일과 맛을 어떤 식으로 잡아나갈지 모르겠다.
+마치 일기장처럼 끄적일지, 누군가에게 설명한다는 느낌으로 풀어나갈지, 굉장히 딱딱하게 사실을 정리하는 느낌으로 써나갈지, 혹은 아예 약을 빨지 모르겠지만, 쓰다보면 잡혀나가리라 믿는다.
+또, 누가 이런 한낱 학생의 홈페이지에 들어가 글을 읽을까 싶지만 읽으러 와준 모두에게 늘 감사하다.&lt;/p&gt;</content><author><name>Jaeho Kim</name></author><category term="Types and Programming Languages" /><summary type="html">첫 시작</summary></entry></feed>
