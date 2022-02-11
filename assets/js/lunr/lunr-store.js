@@ -4,10 +4,4 @@ var store = [{
         "tags": [],
         "url": "/types%20and%20programming%20languages/Ch0-Preface/",
         "teaser": null
-      },{
-        "title": "Untyped Arithmetic Expressions: 타입을 따지지 않는 언어 설계 - 수식",
-        "excerpt":"Type System in Programming Languages 타입은 프로그래밍 언어를 배워본 사람이라면 한 번은 들어봤을 개념이다. 주로 번역될 때 자료형이라는 용어를 쓰는데, ‘data type’을 ‘자료의 형태’라 번역한 것이라 보면 된다. 컴퓨터 프로그래밍의 범주에서 type은 보통의 경우 data type을 의미하기 때문에 틀린 번역은 아니지만, 표현의 명료함과 일반성을 위해 앞으로는 타입이라고 명명하겠다. 그래서 타입이...","categories": ["Types and Programming Languages"],
-        "tags": [],
-        "url": "/types%20and%20programming%20languages/Ch3-Untyped_Arithmetic_Expressions/",
-        "teaser": null
       }]
