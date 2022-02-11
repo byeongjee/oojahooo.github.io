@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/types%20and%20programming%20languages/Ch1-Preface/</loc>
+<loc>http://localhost:4000/types%20and%20programming%20languages/Ch0-Preface/</loc>
 <lastmod>2022-01-28T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/types%20and%20programming%20languages/Ch3-Untyped_Arithmetic_Expressions/</loc>
+<lastmod>2022-02-08T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/categories/</loc>
