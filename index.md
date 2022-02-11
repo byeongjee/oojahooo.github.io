@@ -7,12 +7,12 @@ title: "Jaeho Kim"
 
 ## About
 
-I am a undergraduated student at Department of Computer Science and Engineering, Korea University.
-I am currently interning in [Programming Systems Lab](https://prosys.kaist.ac.kr) in KAIST advised by [Kihong Heo](https://kihongheo.kaist.ac.kr).
+I am an undergraduated student at Department of Computer Science and Engineering, Korea University.
+I am Currently interning in [Programming Systems Lab](https://prosys.kaist.ac.kr) in KAIST advised by [Kihong Heo](https://kihongheo.kaist.ac.kr).
 
 ## Research Interests
 
-My research interests are related to improving programming system using program analysis, synthesis, verification methods based on programming language theory.
+My research interests are related to improving programming systems using program analysis, synthesis, verification methods based on programming language theory.
 In particular,
 - **Program Analysis** for automatically detecting software bugs and vulnerabilies
 - **Type Safety** of object-oriented imperative programming languages
