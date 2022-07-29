@@ -1,6 +1,6 @@
 ---
 title: "개념정리: 의미 구조(Semantics)의 표현 방식들"
-last_modified_at: 2022-06-04
+last_modified_at: 2022-07-30
 categories:
     - Study
 tags:
