@@ -4,4 +4,10 @@ var store = [{
         "tags": ["Teaching","Course"],
         "url": "/records/KLUE/",
         "teaser": null
+      },{
+        "title": "개념정리: 의미 구조(Semantics)의 표현 방식들",
+        "excerpt":"헷갈리지 않도록 PL과 관련된 분야를 공부하고 연구하기 시작한지도 햇수로 4년이 되어가는데, 아직도 간혹가다 헷갈리는 기본 개념들이 있다. 그럴 때마다 한없는 자괴감에 빠지곤 했는데, 차라리 조금의 창피함을 감수하더라도 블로그에 정리해두는 게 앞으로의 공부에 도움되리라 생각해 생각나는 대로 정리하기로 했다. 기록하고 싶은 개념이 생길 때마다 한 포스트에 업데이트를 할까 생각도 했지만, 이왕...","categories": ["Study"],
+        "tags": ["Programing Languages","TaPL"],
+        "url": "/study/Semantics/",
+        "teaser": null
       }]
