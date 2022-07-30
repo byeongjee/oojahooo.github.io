@@ -10,4 +10,10 @@ var store = [{
         "tags": ["Programing Languages","TaPL"],
         "url": "/study/Semantics/",
         "teaser": null
+      },{
+        "title": "창의성에 대한 단상: Coresspondence(대응), Isomorphism(동형), Equivalence(동치)",
+        "excerpt":"Curry-Howard Coresspondence 타입 이론(type theory) 또는 타입 체계(type system)에 대한 공부를 하다보면, 굉장히 흥미로운 주장이 한 가지 나온다. 바로 커리-하워드 대응인데, 아주 쉽게 얘기해 논리의 증명 연산이 타입 체계와 대응된다는 주장이다. 개념 정리를 겸하기 위해 조금의 예시를 첨가하자면, 명제 ‘P이면 Q이다’를 기호로 표현한 \\(P \\rightarrow Q\\) (또는 \\(P \\supset Q\\))는...","categories": ["Study"],
+        "tags": ["TaPL","MISC"],
+        "url": "/study/Coressponding/",
+        "teaser": null
       }]
