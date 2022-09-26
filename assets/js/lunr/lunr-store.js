@@ -16,4 +16,10 @@ var store = [{
         "tags": ["TaPL","MISC"],
         "url": "/study/Coressponding/",
         "teaser": null
+      },{
+        "title": "삽질의 즐거움: vim편",
+        "excerpt":"악연의 시작, 배신, 그리고 재회 처음 ‘그’를 만난 건 고등학교 때였다. 정보과학 선생님 중 한 분이 ‘그’의 반대진영이라고들 하는 ‘그 무언가’의 신봉자였는데, 도저히 ‘그 무언가’와는 친해질 것 같지 않기도 하고, 조금 더 인지도가 높다는 ‘그’와 친하게 지내면 좋은 일이 있지 않을까 하는, 그런 이유였다. 솔직히 뭐가 좋은지도 모르고 그냥 멋져...","categories": ["Study"],
+        "tags": ["vim","editor"],
+        "url": "/study/vim/",
+        "teaser": null
       }]
