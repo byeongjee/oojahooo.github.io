@@ -1,23 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-26T14:32:17+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaeho Kim</title><subtitle>my new homepage</subtitle><author><name>Jaeho Kim</name></author><entry><title type="html">삽질의 즐거움: vim편</title><link href="http://localhost:4000/study/vim/" rel="alternate" type="text/html" title="삽질의 즐거움: vim편" /><published>2022-09-26T00:00:00+00:00</published><updated>2022-07-30T00:00:00+00:00</updated><id>http://localhost:4000/study/vim</id><content type="html" xml:base="http://localhost:4000/study/vim/">&lt;h2 id=&quot;악연의-시작-배신-그리고-재회&quot;&gt;악연의 시작, 배신, 그리고 재회&lt;/h2&gt;
-&lt;p&gt;처음 ‘그’를 만난 건 고등학교 때였다. 정보과학 선생님 중 한 분이 ‘그’의 반대진영이라고들 하는 ‘그 무언가’의 신봉자였는데, 도저히 ‘그 무언가’와는
-친해질 것 같지 않기도 하고, 조금 더 인지도가 높다는 ‘그’와 친하게 지내면 좋은 일이 있지 않을까 하는, 그런 이유였다. 솔직히 뭐가 좋은지도 모르고
-그냥 멋져 보여서 접근하기 시작한 것이 더 컸다.&lt;/p&gt;
-
-&lt;p&gt;‘그’는 까다로웠다. 요즘 것들이라면 당연시 여길 법한 부분들이 통하지 않을 때, 처음으로 후회되기 시작했다. 지금이라도 돌아갈까? 남들은 이미 각자의
-친구를 사귀고 가까워질대로 가까워져 더 나은 미래를 그려나가고 있는데, 난 ‘그’의 입맛대로 휘둘려지느라 조금의 건설적인 일도 하지 못하고 있는 기분이었다.&lt;/p&gt;
-
-&lt;p&gt;‘그’와 조금이라도 가까워지기 위한 노력이 일상을 파괴하기 시작할 즈음, 놀랍게도 ‘그’는 날 당기기 시작했다. 책에서나 보던 밀당이 이런 것인가?
-잘은 모르겠지만, 이대로라면 그 누구보다도 빠르게 날 수 있는 날개를 달 수 있을 것만 같았다. 한 번 마음을 열기 시작한 ‘그’는, 상상 이상의 일들까지
-내 취향에 맞춰가며 영영 함께할 수 있을 것만 같은 미래를 보여줬다.&lt;/p&gt;
-
-&lt;p&gt;이 관계의 배신자는 나였다. ‘그’를 충분히 대신할 수 있는 새로운 존재가 나타나 버렸다. 화려한 미래는 꼭 ‘그’가 아니어도 닿을 수 있을 것 같았다.
-그렇게 ‘그’는 버려졌다. 내게 지울 수 없는 습관만을 남기고 떠났다.&lt;/p&gt;
-
-&lt;p&gt;꽤 오랜 시간이 지났다. ‘그’는 여전히 건재했지만, 주변 누구도 굳이 ‘그’만을 따르려 하지 않았다. ‘그’를 그리워한 건 오히려 나 자신이었다. 또 잊지
-못하고 ‘그’와 재회하려 한다.&lt;/p&gt;
-
-&lt;h2 id=&quot;vim&quot;&gt;VIM&lt;/h2&gt;
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:wq&lt;/code&gt; 또는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:q!&lt;/code&gt;가 그저 힙해보인다는 이유로, 그리고 리눅스를 사용하게 되면 결국 웬만하면 다 설치되어 있고, 그렇지 않더라고 설치하기 쉬운
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-27T01:20:26+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaeho Kim</title><subtitle>my new homepage</subtitle><author><name>Jaeho Kim</name></author><entry><title type="html">삽질의 즐거움: vim편</title><link href="http://localhost:4000/study/vim/" rel="alternate" type="text/html" title="삽질의 즐거움: vim편" /><published>2022-09-26T00:00:00+00:00</published><updated>2022-09-27T00:00:00+00:00</updated><id>http://localhost:4000/study/vim</id><content type="html" xml:base="http://localhost:4000/study/vim/">&lt;h2 id=&quot;vim&quot;&gt;VIM&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:wq&lt;/code&gt; 또는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:q!&lt;/code&gt;가 그저 힙해보인다는 이유로, 그리고 리눅스를 사용하게 되면 결국 웬만하면 다 설치되어 있고, 그렇지 않더라도 설치하기 쉬운
 &lt;a href=&quot;https://www.vim.org&quot;&gt;vim&lt;/a&gt;을 쓰는 게 편하다는 명분으로 입문한지 5년은 더 지난 듯하다. 사실 처음 붙잡고 공부했을 때에는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;의 수많은
 스크립트들을 이해하고 써먹기는커녕 어찌어찌 친절한 블로거의 예시를 그대로 가져다 쓰며 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hjkl&lt;/code&gt;를 비롯한 기본 중의 기본이 되는 키맵들을 익히기에
 바빴다. 코딩 공부보다 코딩을 위한 에디터 공부가 더 힘들 지경이었다.&lt;/p&gt;
@@ -29,7 +11,7 @@
 손에 익은 습관은 버리지 못해, vs code에 vim extension을 설치해 최소한의 키맵과 모드들은 사용할 수 있도록 하여 오묘한 시너지 효과를 즐기는
 편이었다.&lt;/p&gt;
 
-&lt;p&gt;그렇게 vs code로 정착한지도 꽤 되었는데, 갑자기 오늘 vim을 사용하고 싶어졌다. 정확히는 vs code에 이미 있는 기능임에도 단축키가 익지 않아 잘
+&lt;p&gt;그렇게 vs code로 정착한지도 꽤 되었는데, 갑자기 오늘 vim을 사용하고 싶어졌다. 정확히는 vs code에 이미 있음에도 단축키가 익지 않아 잘
 쓰지 않던 기능들이, 오히려 vim에서 빠르게 사용 가능하다는 것을 알게 되어 다시 한 번 제대로 세팅해보고 싶어진 것이다.&lt;/p&gt;
 
 &lt;p&gt;그렇게 또다시 삽질이 시작됐다.&lt;/p&gt;
@@ -59,14 +41,14 @@ sudo apt install ./nvim-linux64.deb
 
 &lt;h2 id=&quot;vimrc-colors-vim-plug&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;, colors, vim-plug&lt;/h2&gt;
 &lt;p&gt;이제 vim을 내 입맛대로 고쳐야 할 시간이다. 아무래도 새로운 컴퓨터에서 세팅을 해야 하거나 새로운 서버에도 정성껏 나의 세팅대로 vim을 사용하고
-싶었기 때문에 나만의 세팅을 내 &lt;a href=&quot;https://github.com/oojahooo/vim-setup&quot;&gt;깃허브 레포&lt;/a&gt;로 올려 두었다. nvim이기에 몇가지 디렉토리 세팅도
-해줘야 하기에, 차근차근히 순서대로 기록해 두고자 한다.&lt;/p&gt;
+싶었기 때문에 나만의 세팅을 내 &lt;a href=&quot;https://github.com/oojahooo/vim-setup&quot;&gt;깃허브 레포&lt;/a&gt;로 올려 두었다. Vim을 쓰다 nvim으로 옮기면 몇가지
+디렉토리 세팅도 다시 해줘야 하기에, 차근차근히 순서대로 기록해 두고자 한다.&lt;/p&gt;
 
 &lt;p&gt;가장 먼저 알아둬야 할 것은, neovim 환경설정을 위한 디렉토리 구조이다. Neovim은 보통 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/.config/nvim/&lt;/code&gt; 디렉토리 아래에 여러 세팅용 파일 및
 디렉토리들을 담아둔다. 이는 주로 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/.vim&lt;/code&gt; 디렉토리에 플러그인과 컬러테마들을 저장해 두고 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/.vimrc&lt;/code&gt;로 여러 설정을 하던 vim과는 조금 다른 구조이다.
 그래서 일단 기존의 vim을 세팅하던 때와 같은 환경에서 자연스럽게 neovim 세팅을 하기 위해, neovim의 설정파일 경로인 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/.config/nvim/init.vim&lt;/code&gt;을
 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/.vimrc&lt;/code&gt;로 링크 걸어두고, 컬러테마 폴더 경로인 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/.config/nvim/colors/&lt;/code&gt;를 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/.vim/colors/&lt;/code&gt;로 링크 걸어뒀다. 굳이 이렇게 할 필요는
-없는 걸로 알기에, 해당 부분은 내맴~ 하고 넘어가도 좋다.
+없는 걸로 알기에, 해당 부분은 재량껏 넘어가도 좋다.
 (*주의: 당연히 원본 파일들이 있어야 문제없이 링크가 된다. 나는 이미 숱한 삽질 끝에 어느정도 안정적인 세팅을 &lt;a href=&quot;https://github.com/oojahooo/vim-setup&quot;&gt;깃허브 레포&lt;/a&gt;에
 담아두었기에 여기 있는 파일들을 먼저 홈 디렉토리에 경로에 맞게 옮겨준 뒤 링크를 걸어준다)&lt;/p&gt;
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ln -s ~/.config/nvim/init.vim ~/.vimrc
@@ -147,13 +129,13 @@ user-setup을 통해 자동으로 추가한 여러 스크립트들이 포함되�
 기존 버퍼를 다 덮어씌워 버려 끄지도 못하고 나가려면 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:q!&lt;/code&gt;를 해야 하는 문제가 있었다. 원인을 찾기 위해 온갖 키워드(e.g. coc + diagnostics + fuzzy + …)들
 을 넣어가며 구글링해보다가, 뭔가 다른 플러그인과의 충돌인 것 같아 길고 긴 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;에서 각 설정 뭉치들을 주석하고, 주석을 풀어가며 기능이 언제
 잘 작동하고 망가지는지 비교해 보는 짓을 해야만 했다. 그리고 찾은 원인은 &lt;strong&gt;NERDTree&lt;/strong&gt;라는 플러그인. Neovim에서 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:vs&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:bo vs&lt;/code&gt; 및 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:sp&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:bo sp&lt;/code&gt;
-커맨드를 조금 더 스마트하게 사용하기 위해 거의 필수로 설치하고 설정해 두는 플러그인인데, 이 플러그인이 새로 열리는 임시 버퍼의 화면비율을 마음대로
+커맨드를 조금 더 스마트하게 사용하기 위해 거의 필수로 설치하고 설정해 두는 플러그인인데, 이 플러그인이 새로 열리는 임시 버퍼의 화면비크기를 마음대로
 고정해 버리는 부분이 아마 문제였던 것 같다. 물론 조금만 더 잘 찾아보면 NERDTree와 coc.nvim을 함께 잘 사용할 방법이 있겠지만, 솔직히 이제는
 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:vs&lt;/code&gt; 커맨드를 쓰는 게 더 익숙해졌기에 미련없이 NERDTree 플러그인과 관련 설정 스크립트를 지워버렸다. 이젠 문제 없겠지.&lt;/p&gt;
 
 &lt;h2 id=&quot;새로운-시작&quot;&gt;새로운 시작&lt;/h2&gt;
 &lt;p&gt;그렇게 해서 어찌저찌, 이번에는 정말 스크립트를 이해한 상태에서 여러 플러그인을 설치하고 세팅을 입맛대로 바꿔 보았다. 정말 많은 삽질과 고난이
-있었지만, 대부분 마음 속에만 묻어 두기로 하고 나름 깔끔하게 포스트로 기록해 보았다. Vim아~ 이제 내 속 썩이지 말고 나랑 같이 오래오래 행복해야 한다~&lt;/p&gt;</content><author><name>Jaeho Kim</name></author><category term="Study" /><category term="vim" /><category term="editor" /><summary type="html">악연의 시작, 배신, 그리고 재회 처음 ‘그’를 만난 건 고등학교 때였다. 정보과학 선생님 중 한 분이 ‘그’의 반대진영이라고들 하는 ‘그 무언가’의 신봉자였는데, 도저히 ‘그 무언가’와는 친해질 것 같지 않기도 하고, 조금 더 인지도가 높다는 ‘그’와 친하게 지내면 좋은 일이 있지 않을까 하는, 그런 이유였다. 솔직히 뭐가 좋은지도 모르고 그냥 멋져 보여서 접근하기 시작한 것이 더 컸다.</summary></entry><entry><title type="html">창의성에 대한 단상: Coresspondence(대응), Isomorphism(동형), Equivalence(동치)</title><link href="http://localhost:4000/study/Coressponding/" rel="alternate" type="text/html" title="창의성에 대한 단상: Coresspondence(대응), Isomorphism(동형), Equivalence(동치)" /><published>2022-07-31T00:00:00+00:00</published><updated>2022-07-31T00:00:00+00:00</updated><id>http://localhost:4000/study/Coressponding</id><content type="html" xml:base="http://localhost:4000/study/Coressponding/">&lt;h2 id=&quot;curry-howard-coresspondence&quot;&gt;Curry-Howard Coresspondence&lt;/h2&gt;
+있었지만, 대부분 마음 속에만 묻어 두기로 하고 나름 깔끔하게 포스트로 기록해 보았다. Vim아~ 이제 내 속 썩이지 말고 나랑 같이 오래오래 행복해야 한다~&lt;/p&gt;</content><author><name>Jaeho Kim</name></author><category term="Study" /><category term="vim" /><category term="editor" /><summary type="html">VIM :wq 또는 :q!가 그저 힙해보인다는 이유로, 그리고 리눅스를 사용하게 되면 결국 웬만하면 다 설치되어 있고, 그렇지 않더라도 설치하기 쉬운 vim을 쓰는 게 편하다는 명분으로 입문한지 5년은 더 지난 듯하다. 사실 처음 붙잡고 공부했을 때에는 .vimrc의 수많은 스크립트들을 이해하고 써먹기는커녕 어찌어찌 친절한 블로거의 예시를 그대로 가져다 쓰며 hjkl를 비롯한 기본 중의 기본이 되는 키맵들을 익히기에 바빴다. 코딩 공부보다 코딩을 위한 에디터 공부가 더 힘들 지경이었다.</summary></entry><entry><title type="html">창의성에 대한 단상: Coresspondence(대응), Isomorphism(동형), Equivalence(동치)</title><link href="http://localhost:4000/study/Coressponding/" rel="alternate" type="text/html" title="창의성에 대한 단상: Coresspondence(대응), Isomorphism(동형), Equivalence(동치)" /><published>2022-07-31T00:00:00+00:00</published><updated>2022-07-31T00:00:00+00:00</updated><id>http://localhost:4000/study/Coressponding</id><content type="html" xml:base="http://localhost:4000/study/Coressponding/">&lt;h2 id=&quot;curry-howard-coresspondence&quot;&gt;Curry-Howard Coresspondence&lt;/h2&gt;
 
 &lt;p&gt;타입 이론(type theory) 또는 타입 체계(type system)에 대한 공부를 하다보면, 굉장히 흥미로운 주장이 한 가지 나온다.
 바로 커리-하워드 대응인데, 아주 쉽게 얘기해 논리의 증명 연산이 타입 체계와 대응된다는 주장이다.&lt;/p&gt;
