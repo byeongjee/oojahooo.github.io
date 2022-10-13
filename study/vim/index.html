@@ -39,7 +39,7 @@
 
 
 
-  <meta property="article:modified_time" content="2022-09-27T00:00:00+00:00">
+  <meta property="article:modified_time" content="2022-10-13T00:00:00+00:00">
 
 
 
@@ -280,7 +280,7 @@
     <meta itemprop="headline" content="삽질의 즐거움: vim편">
     <meta itemprop="description" content="VIM">
     <meta itemprop="datePublished" content="2022-09-26T00:00:00+00:00">
-    <meta itemprop="dateModified" content="2022-09-27T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2022-10-13T00:00:00+00:00">
 
     <div class="page__inner-wrap">
       
@@ -303,7 +303,7 @@
       <span class="page__meta-readtime">
         <i class="far fa-clock" aria-hidden="true"></i>
         
-          6 minute read
+          8 minute read
         
       </span>
     
@@ -438,6 +438,29 @@ user-setup을 통해 자동으로 추가한 여러 스크립트들이 포함되�
 }
 </code></pre></div></div>
 
+<h3 id="추가-copilot">(추가) Copilot</h3>
+
+<p>Copilot이 상용화되면서, 친절한 GitHub는 neovim에서 copilot을 사용할 수 있도록 플러그인을 제공해 주었다. 세팅도 매우매우 간단한데, 몇가지
+메모사항이 있어 추가한다. 참고로 내 경우에는 <a href="https://education.github.com/">GitHub Education</a>에서 학생 인증을 통해 student pack을
+제공받아 copilot을 사용중이다.</p>
+
+<p>Copilot 서비스를 제공받기 위한 과정은 알아서 개인적으로 했다 치고, copilot을 사용 가능한(구독중인) GitHub 계정이 준비되어 있다고 하자.
+이제 neovim에서 이를 사용하기 위해서는 플러그인을 추가해야 한다. <code class="language-plaintext highlighter-rouge">.vimrc</code> 파일을 열어 지금까지 플러그인을 추가했던 방법대로 <code class="language-plaintext highlighter-rouge">github/copilot</code>
+플러그인을 추가하면 된다. 즉 <code class="language-plaintext highlighter-rouge">Plug 'github/copilot.vim'</code> 한 줄만 추가해 주면 된다. 당연히 내 <code class="language-plaintext highlighter-rouge">.vimrc</code>에는 추가해 뒀다.</p>
+
+<p>그 뒤에 vim을 연 뒤 <code class="language-plaintext highlighter-rouge">:Copilot setup</code> 커맨드만 입력하면 된다. 이 때 계정 연동 및 인증을 위해 인증 코드를 띄워주고 엔터를 입력하면 브라우저를
+통해 인증 페이지를 열기 시도한다. 만약 리눅스 서버 등의 환경에서 작업하는 중이라면 브라우저를 열지 못해 실패 메시지가 뜰텐데, 당황하지 말고
+이 때 뜨는 링크로 직접 브라우저를 열어 접속한 뒤, 인증 코드를 입력해 인증해 주면 된다.</p>
+
+<p>사실 이것만으로 copilot을 사용하기 위한 준비는 끝났다. 바로 아무 파일이나 열어 코드(아니면 논문이라도)를 작성해 보자. 대충 입력한 뒤 적당히
+커서를 두고 입력을 하다가 말면, 입력하던 부분에 이어서 회색 텍스트가 뜰 것이다. Copilot의 추천 텍스트이다. 만약 다른 세팅을 건드리지 않았다면,
+여기서 <code class="language-plaintext highlighter-rouge">&lt;tab&gt;</code>을 입력하면 추천해준 텍스트가 실제로 적용되어 입력될 것이다. 만약 같은 상황에서 추천 후보를 더 보고 싶다면 <code class="language-plaintext highlighter-rouge">&lt;M-]&gt;</code>를, 다시 이전
+추천으로 돌아가고 싶다면 <code class="language-plaintext highlighter-rouge">&lt;M-[&gt;</code>를 입력하면 된다. 그런데 개인적으로 이미 <code class="language-plaintext highlighter-rouge">&lt;tab&gt;</code>을 다른 auto completion 플러그인에 적용하여 사용중인데,
+둘 다 <code class="language-plaintext highlighter-rouge">&lt;tab&gt;</code>으로 두고 쓰자니 오히려 불편해지는 감도 있고, (물론 copilot의 주장으로는 단축키 겹침으로 인한 불편함을 최소화하기 위해 추천하지
+않을 때에는 기능대체가 되게끔 한다고 한다) 메타 키(<code class="language-plaintext highlighter-rouge">alt</code> 키)를 거의 사용하지 않는 편이라 다른 단축키들도 손에 잘 익지 않아 키맵을 바꿔 주었다.
+사실 같은 상황에서 copilot의 여러 추천을 볼 수 있다는 것도 이 키맵 설정을 위해 이것저것 찾아보다 알게 된 기능이라, 의도치 않게 큰 이득을 봤다.
+아무튼 원하는 새 키맵 역시 <code class="language-plaintext highlighter-rouge">.vimrc</code>에 추가해 주면, copilot 설정은 진짜로 끝이다.</p>
+
 <h2 id="아마-끝">아마 끝?</h2>
 
 <p>여기까지 왔으면, 아마 높은 확률로 아무 커맨드 에러 없이 아주 예쁘고 강력한 vim을 사용할 수 있을 것이다. 이를 완성하는 데 정말 많은 삽질을 했으나,
@@ -497,7 +520,7 @@ user-setup을 통해 자동으로 추가한 여러 스크립트들이 포함되�
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2022-09-27">September 27, 2022</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2022-10-13">October 13, 2022</time></p>
 
       </footer>
 
