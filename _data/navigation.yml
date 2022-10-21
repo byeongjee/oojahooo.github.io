@@ -11,3 +11,5 @@ main:
     url: /publications/
   - title: "CV"
     url: /assets/pdf/CV/main.pdf
+  - title: "PL-Wiki"
+    url: https://github.com/prosyslab/pl-wiki/wiki
