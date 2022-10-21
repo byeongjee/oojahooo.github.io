@@ -57,6 +57,14 @@ plugins:
   - jekyll-include-cache
   - jekyll/scholar
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+
+  google:
+    tracking_id: "G-VL6QZ95PNG"
+    anonymize_ip: true
+
 # Jekyll-Scholar
 scholar:
   first_name: Jaeho
